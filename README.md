@@ -3,64 +3,6 @@
      <title># 205249-coder.github.io</title>
   </head>
   <body>
-<body style="background-color:#FFFDD0;">
-  theme: jekyll-theme-so-simple
-<h1 style="font-times-new;">minva foodblog</h1>
-<P>mjam</p>
-<a href="Japanfirsttry.html"><img src="sushi.ing"> alt="sushi" width="350" height="400">
-</a>
-<style>
-a:link, a:visited {
-  background-color: white;
-  color: black;
-  border: 2px blue;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-a:hover, a:active {
-  background-color: #89CFF0;
-
-}
-</style>
-<a href="Italie.html"><img src="pizza.ing"> alt="pizza" width="450" height="400">
-</a>
-<style>
-a:link, a:visited {
-  background-color: white;
-  color: black;
-  border: 2px blue;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-a:hover, a:active {
-  background-color: #89CFF0;
-
-}
-</style>
-<a href="Spanje.html"><img src="tapas.ing"> alt="tapas" width="450" height="400">
-</a>
-<style>
-a:link, a:visited {
-  background-color: white;
-  color: black;
-  border: 2px blue;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-a:hover, a:active {
-  background-color: #89CFF0;
-
-}
-</style>
-
-</body>
-</html>
 <h1>Minva's Food Blog</h1>
   </body>
 </html> 
