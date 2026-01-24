@@ -3,8 +3,6 @@
      <title># 205249-coder.github.io</title>
   </head>
   <body>
-    <!DOCTYPE html>
-<html>
 <body style="background-color:#FFFDD0;">
   theme: jekyll-theme-so-simple
 <h1 style="font-times-new;">minva foodblog</h1>
