@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
      <title># 205249-coder.github.io</title>
